@@ -90,4 +90,5 @@ mod static_contact_info;
 mod event;
 mod peer;
 mod connection_handler;
+mod connections;
 mod peer_connection_type;
